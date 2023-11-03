@@ -1,0 +1,313 @@
+*****************************************************************************************
+*											*
+*				  	Welcome to  					*
+*				  Chemistry Calculators				        *
+*											*
+*****************************************************************************************
+*											*
+*				      Choose a Topic					*
+*											*
+*				1 - Acid/Base/Compound Properties			*
+*				2 - Strong Acid Titration				*
+*				3 - Stoichiometry and Yields				*
+*				4 - Ideal and Non-Ideal Gas Laws			*
+*				5 - Conversion of SI Units				*
+*				0 - Exit Chemistry Calculators				*
+*											*
+*****************************************************************************************
+*											*
+*			     Acid/Base/Compound Properties				*
+*											*
+*****************************************************************************************
+*											*
+*				   Choose a Calculator		  			*
+*											*
+*			  1 - Moles of a Compound					*
+*			  2 - Molarity of an Acid					*
+*			  3 - Concentration of Hydrogen Ions of an Acid			*
+*			  4 - pH Level of an Acid Compound				*
+*			  5 - History							*
+*			  6 - Delete History						*
+*			  0 - Back to Main Menu						*
+*											*
+*****************************************************************************************
+*											*
+*				  Moles of a Compound					*
+*											*
+*				        Equation	 				*
+*											*
+*      	      Moles of  	(Element Atomic Weight[i] x No. of Atoms[i])		*
+*	         a         =			    +					*
+*	    Compound(mol)	(Element Atomic Weight[j] x No. of Atoms[j])		*
+*											*
+*****************************************************************************************
+*											*
+*				  Molarity of an Acid					*
+*											*
+*				        Equation	 				*
+*											*
+*	      Molarity(M) = Volume of Solution(L) / Moles of Solution(mol)		*
+*											*
+*****************************************************************************************
+*											*
+*		        Concentration of Hydrogen Ions of an Acid			*
+*											*
+*				        Equation	 				*
+*											*
+*	Concentration of Hydrogen Ions(H+) = Molarity(M) / Volume of Solution(L)	*
+*				        		 				*
+*****************************************************************************************
+*											*
+*			      pH Level of an Acid Compound				*
+*											*
+*				        Equation	 				*
+*											*
+*		     pH = -log(Concentration of Hydrogen Ions(H+))			*
+*											*
+*				 pH Level Classification				*
+*											*
+*				     pH < 7 = Acidic					*
+*				     pH = 7 = Nuetral					*
+*				     pH > 7 = Alcaline					*
+*											*
+*****************************************************************************************
+*			        *****Start of History*****				*
+*****************************************************************************************
+*			         *****End of History*****				*
+*****************************************************************************************
+*											*
+*			     Warning! History Will Be Deleted!				*
+*											*
+*		Enter "OK" to Confirm        *        Enter Any Key to Cancel		*
+*											*
+*****************************************************************************************
+*											*
+*			  History Has Been Deleted Successfully				*
+*											*
+*****************************************************************************************
+*											*
+*				 Strong Acid Titration	 				*
+*											*
+*				    General Equation					*
+*											*
+*      	      	   Volume of Acid(Va)    	    Volume of Base(Vb)  		*
+*	                   x		    =		    x				*
+*	   	Concentration of Acid[H+]	Concentration of Base[OH-]		*
+*											*
+*****************************************************************************************
+*											*
+*				   Choose a Calculator		  			*
+*											*
+*			  	1 - Acid Volume						*
+*			  	2 - Base Volume						*
+*			  	3 - Base Concentration					*
+*			  	4 - Acid Concentration					*
+*			  	5 - History						*
+*			  	6 - Delete History					*
+*			  	0 - Back to Main Menu					*
+*											*
+*****************************************************************************************
+*											*
+*				      Acid Volume					*
+*											*
+*				        Equation	 				*
+*											*
+*				Va = (Vb x [OH-]) / [H+]			 	*
+*											*
+*****************************************************************************************
+*											*
+*				      Base Volume					*
+*											*
+*				        Equation	 				*
+*											*
+*				Vb = (Va x [H+]) / [OH-]				*
+*											*
+*****************************************************************************************
+*											*
+*		         	   Base Concentration					*
+*											*
+*				        Equation	 				*
+*											*
+*			       [OH-] = (Va x [H+]) / [Vb]				*
+*				        		 				*
+*****************************************************************************************
+*											*
+*		         	   Acid Concentration					*
+*											*
+*				        Equation	 				*
+*											*
+*			       [H+] = (Vb x [OH-]) / [Va]				*
+*				        		 				*
+*****************************************************************************************
+*											*
+*				Stoichiometry and Yields	 			*
+*											*
+*****************************************************************************************
+*											*
+*				   Choose a Calculator		  			*
+*											*
+*			  	1 - Balancing Chemical Equation				*
+*			  	2 - Theoretical Yield					*
+*			  	3 - Actual Yield					*
+*			  	4 - Percent Yield					*
+*			  	5 - History						*
+*			  	6 - Delete History					*
+*			  	0 - Back to Main Menu					*
+*											*
+*****************************************************************************************
+*											*
+*			       Balancing Chemical Equation				*
+*											*
+*****************************************************************************************
+*											*
+*				   Theoretical Yield					*
+*											*
+*				        Equation	 				*
+*											*
+*				  Yt = (Ya / Yp) x 100					*
+*											*
+*****************************************************************************************
+*											*
+*		         	      Actual Yield					*
+*											*
+*				        Equation	 				*
+*											*
+*			          Ya = (Yp / 100) x Yt					*
+*				        		 				*
+*****************************************************************************************
+*											*
+*		         	     Percent Yield					*
+*											*
+*				        Equation	 				*
+*											*
+*			          Yp = (Ya / Yt) x 100					*
+*				        		 				*
+*****************************************************************************************
+*											*
+*			      Ideal and Non-Ideal Gas Laws	 			*
+*											*
+*****************************************************************************************
+*											*
+*				   Choose a Calculator		  			*
+*											*
+*		       1 - Ideal Temperature						*
+*		       2 - Ideal Pressure						*
+*		       3 - Ideal Volume							*
+*		       4 - Non-Ideal Pressure						*
+*		       5 - Difference Between Ideal and Non-Ideal Pressures	  	*
+*		       6 - History							*
+*		       7 - Delete History						*
+*		       0 - Back to Main Menu						*
+*											*
+*****************************************************************************************
+*											*
+*			           Ideal Temperature					*
+*											*
+*				        Equation	 				*
+*											*
+*				 T = (P x V) / (n x R) 					*
+*											*
+*****************************************************************************************
+*											*
+*				     Ideal Pressure					*
+*											*
+*				        Equation	 				*
+*											*
+*				  P = (n x R x T) / V					*
+*											*
+*****************************************************************************************
+*											*
+*				      Ideal Volume					*
+*											*
+*				        Equation	 				*
+*											*
+*				  V = (n x R x T) / P					*
+*											*
+*****************************************************************************************
+*											*
+*		         	   Non-Ideal Pressure					*
+*											*
+*				        Equation	 				*
+*											*
+*			    P(x) = (n x R x T) / (V - (n x b)				*
+*				        		 				*
+*			       	    P(y) = a(n/V)^2					*
+*				        		 				*
+*			            P = P(x) - P(y)					*
+*				        		 				*
+*****************************************************************************************
+*											*
+*		    Difference Between Ideal and Non-Ideal Pressures			*
+*											*
+*				        Equation	 				*
+*											*
+*				  |Ideal - Non Ideal|					*
+*											*
+*****************************************************************************************
+*											*
+*			          Conversion of SI Units	 			*
+*											*
+*****************************************************************************************
+*											*
+*				      Choose a Unit		  			*
+*											*
+*			  	1 - Mass						*
+*			  	2 - Pressure						*
+*			  	3 - Volume						*
+*			  	4 - Temperature						*
+*			  	5 - History						*
+*			  	6 - Delete History					*
+*			  	0 - Back to Main Menu					*
+*											*
+*****************************************************************************************
+*											*
+*			                  Mass	 					*
+*											*
+*****************************************************************************************
+*											*
+*				   Choose a Conversion		  			*
+*											*
+*			  	1 - From Millirams					*
+*			  	2 - From Grams						*
+*			  	3 - From Kilograms					*
+*			  	4 - From Pounds						*
+*			  	5 - From Ounce						*
+*											*
+*****************************************************************************************
+*											*
+*			                 Pressure					*
+*											*
+*****************************************************************************************
+*											*
+*				   Choose a Conversion		  			*
+*											*
+*			  	1 - From Pascals					*
+*			  	2 - From Atmosphere					*
+*			  	3 - From Pounds Per Square Inch				*
+*											*
+*****************************************************************************************
+*											*
+*			                  Volume	 				*
+*											*
+*****************************************************************************************
+*											*
+*				   Choose a Conversion		  			*
+*											*
+*			  	1 - From Milliliter					*
+*			  	2 - From Liter						*
+*			  	3 - From US Gallon					*
+*			  	4 - From Cubic Meters					*
+*											*
+*****************************************************************************************
+*											*
+*			                Temperature	 				*
+*											*
+*****************************************************************************************
+*											*
+*				   Choose a Conversion		  			*
+*											*
+*			  	1 - From Kelvin						*
+*			  	2 - From Celsius	  				*
+*			  	3 - From Fahrenheit					*
+*											*
+*****************************************************************************************
